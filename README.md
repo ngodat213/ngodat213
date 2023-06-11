@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm HydraCoder</h1>
 <h3 align="center">A passionate flutter, back-end developer from VietNam</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ngodat213&label=Profile%20views&color=0e75b6&style=flat" alt="ngodat213" /> </p>
-
+<img align="right" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ceab6b05-066e-4f6b-82ab-d8d718e2cbb5/da69dzf-11f146e8-481e-4ace-bfea-2a8fa094a416.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2NlYWI2YjA1LTA2NmUtNGY2Yi04MmFiLWQ4ZDcxOGUyY2JiNVwvZGE2OWR6Zi0xMWYxNDZlOC00ODFlLTRhY2UtYmZlYS0yYThmYTA5NGE0MTYuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.0AV7OXHT-kFbJAHvGSm9oKF31qvYzymwODMDUu6RVZc" alt="Coding", width="500"/>
 <p align="left"> <a href="https://twitter.com/7094at" target="blank"><img src="https://img.shields.io/twitter/follow/7094at?logo=twitter&style=for-the-badge" alt="7094at" /></a> </p>
 
 - 🔭 I’m currently working on **Openart-NFT**
