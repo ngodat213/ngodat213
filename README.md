@@ -7,14 +7,11 @@
 ```Dart
 Map<String, dynamic> getAboutMe() {
   return {
-    'basicLanguage': ['C++', 'C#', 'Java', 'NodeJS'],
-    'mainLanguage': ['Dart'],
+    'basicLanguage': ['C++', 'C#', 'Java', 'Dart'],
     'mobilePlatforms': ['Android', 'iOS'],
     'frontend': ['Flutter'],
     'backend': ['Firebase'],
-    'database': ['Firestore', 'MongoDB'],
-    'tools': ['Android Studio', 'Visual Studio Code'],
-    'learning': ['Mobile Security', 'Push Notifications', 'BLoC Pattern'],
+    'database': ['Firestore', 'MongoDB', 'MySQL'],
   };
 }
 ```
