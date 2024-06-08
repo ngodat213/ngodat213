@@ -16,9 +16,6 @@ Map<String, dynamic> getAboutMe() {
 }
 ```
 
-## Feeding...
-![Snake animation](https://raw.githubusercontent.com/ngodat213/ngodat213/output/github-contribution-grid-snake-dark.svg)
-
 ## 📊 My Github Stats
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ngodat213&show_icons=true&theme=dark&locale=en&layout=compact" alt="ngodat213" /></p>
 
