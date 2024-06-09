@@ -6,9 +6,9 @@ Map<String, dynamic> getAboutMe() {
   return {
     'basicLanguage': ['C++', 'C#', 'Java', 'Dart'],
     'mobilePlatforms': ['Android', 'IOS'],
-    'frontend': ['Flutter', 'HTML', 'CSS'],
-    'backend': ['Firebase', 'NestJs', 'Spring Boot'],
-    'database': ['Firestore', 'MongoDB', 'MySQL'],
+    'frontend': ['Flutter', 'HTML', 'CSS', 'Java Android'],
+    'backend': ['Firebase', 'NestJs', 'Spring Boot', 'NodeJs', 'ASP.NET'],
+    'database': ['Firestore', 'MongoDB', 'MySQL', 'SQL Server'],
   };
 }
 ```
