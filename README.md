@@ -5,7 +5,7 @@
 Map<String, dynamic> getAboutMe() {
   return {
     'basicLanguage': ['C++', 'C#', 'Java', 'Dart'],
-    'mobilePlatforms': ['Android', 'iOS'],
+    'mobilePlatforms': ['Android', 'IOS'],
     'frontend': ['Flutter', 'HTML', 'CSS'],
     'backend': ['Firebase', 'NestJs', 'Spring Boot'],
     'database': ['Firestore', 'MongoDB', 'MySQL'],
