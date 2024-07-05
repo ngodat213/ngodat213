@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi there, I'm Ngo Dat - Mobile Developer</h1>
+<h1 align="center">👋 Hi there, I'm Ngo Dat - Mobile Developer 💻</h1>
 
 ## 🙋‍♂️ About Me
 ```Dart
