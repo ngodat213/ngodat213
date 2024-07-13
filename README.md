@@ -13,8 +13,5 @@ Map<String, dynamic> getAboutMe() {
 }
 ```
 
-<!-- BEGIN YOUTUBE-CARDSsss -->
-<!-- END YOUTUBE-CARDS -->
-
 ## 🔥My Github Streak
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ngodat213&theme=dark" alt="ngodat213" /></p>
