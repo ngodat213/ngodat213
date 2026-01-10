@@ -4,11 +4,13 @@
 ```Dart
 Map<String, dynamic> getAboutMe() {
   return {
-    'basicLanguage': ['C++', 'C#', 'Java', 'Dart'],
-    'mobilePlatforms': ['Android'],
-    'frontend': ['Flutter', 'HTML', 'CSS', 'Java Android'],
-    'backend': ['Firebase', 'NestJs', 'Spring Boot', 'NodeJs', 'ASP.NET'],
+    'basicLanguage': ['C++', 'C#', 'Java', 'Dart', 'Typescript', 'Javascript', 'Kotlin'],
+    'mobilePlatforms': ['Android', 'IOS'],
+    'frontend': ['Flutter', 'Java Android', 'React Native', 'Kotlin Multiple Platform', 'ASP.NET'],
+    'backend': ['Firebase', 'NestJs', 'Spring Boot', 'NodeJs'],
     'database': ['Firestore', 'MongoDB', 'MySQL', 'SQL Server'],
+    'architecture': ['MVVM', 'Clean Architecture', 'MVC'],
+    'stateManagement' ['Bloc', 'GetX', 'Provider', 'Zustand']
   };
 }
 ```
